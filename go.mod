@@ -1,4 +1,4 @@
-module github.com/lamrin13/cron
+module github.com/lamrin13/Go-Cron
 
 go 1.19
 
