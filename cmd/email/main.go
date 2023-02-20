@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lamrin13/cron/package/api"
+	"github.com/lamrin13/Go-Cron/package/api"
 )
 
 func main() {
